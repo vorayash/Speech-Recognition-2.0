@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//vorayash.github.io/Speech-Recognition-2.0/static/css/main.e049f67c.css",
+    "main.js": "//vorayash.github.io/Speech-Recognition-2.0/static/js/main.6e963099.js",
+    "static/js/453.3459ea09.chunk.js": "//vorayash.github.io/Speech-Recognition-2.0/static/js/453.3459ea09.chunk.js",
+    "index.html": "//vorayash.github.io/Speech-Recognition-2.0/index.html",
+    "main.e049f67c.css.map": "//vorayash.github.io/Speech-Recognition-2.0/static/css/main.e049f67c.css.map",
+    "main.6e963099.js.map": "//vorayash.github.io/Speech-Recognition-2.0/static/js/main.6e963099.js.map",
+    "453.3459ea09.chunk.js.map": "//vorayash.github.io/Speech-Recognition-2.0/static/js/453.3459ea09.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e049f67c.css",
+    "static/js/main.6e963099.js"
+  ]
+}
